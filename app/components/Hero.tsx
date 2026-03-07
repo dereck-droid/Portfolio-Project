@@ -30,10 +30,12 @@ export default function Hero() {
               I build AI systems that actually work in production.
             </p>
             <p className="mt-6 text-sm md:text-lg text-text-secondary max-w-xl leading-relaxed">
-              AI automation consultant and AI-powered developer. I&apos;ve built
-              enterprise compliance systems, agentic pipelines, and custom web
-              apps that replace hours of manual work with automated processes.
-              Based in Greenville, SC.
+              AI automation consultant and AI-powered developer with 10+ years
+              of business ownership across multiple industries. I&apos;ve built
+              enterprise compliance systems, agentic pipelines, and production
+              apps — designing from the perspective of someone who&apos;s lived
+              the operational problems AI is meant to solve. Based in
+              Greenville, SC.
             </p>
 
             <div className="mt-8 flex flex-wrap gap-4 justify-center md:justify-start">
