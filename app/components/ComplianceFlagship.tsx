@@ -49,10 +49,10 @@ export default function ComplianceFlagship() {
           </div>
           <div className="bg-surface border border-border rounded-lg p-6 text-center">
             <div className="text-3xl md:text-4xl font-extrabold text-accent">
-              300+
+              3-Pass
             </div>
             <div className="mt-2 font-mono text-xs uppercase tracking-widest text-text-secondary">
-              Documents Indexed
+              Retrieval Architecture
             </div>
           </div>
           <div className="bg-surface border border-border rounded-lg p-6 text-center">
