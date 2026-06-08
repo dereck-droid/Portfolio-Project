@@ -32,8 +32,8 @@ export default function Hero() {
             <p className="mt-6 text-sm md:text-lg text-text-secondary max-w-xl leading-relaxed">
               AI automation consultant and AI-powered developer with 10+ years
               of business ownership across multiple industries. I&apos;ve built
-              enterprise compliance systems, agentic pipelines, and production
-              apps — designing from the perspective of someone who&apos;s lived
+              an enterprise compliance system, agentic pipelines, and production
+              apps, designing from the perspective of someone who&apos;s lived
               the operational problems AI is meant to solve. Based in
               Greenville, SC.
             </p>

@@ -15,11 +15,11 @@ const jetbrainsMono = JetBrains_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Dereck Johnson — AI Automation Consultant & Developer",
+  title: "Dereck Johnson · AI Automation Consultant & Developer",
   description:
     "I build AI systems that actually work in production. Enterprise compliance systems, agentic pipelines, and custom web apps that replace hours of manual work.",
   openGraph: {
-    title: "Dereck Johnson — AI Automation Consultant & Developer",
+    title: "Dereck Johnson · AI Automation Consultant & Developer",
     description:
       "Enterprise AI systems, agentic pipelines, and custom automation. Based in Greenville, SC.",
     type: "website",
@@ -27,7 +27,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: "summary_large_image",
-    title: "Dereck Johnson — AI Automation Consultant & Developer",
+    title: "Dereck Johnson · AI Automation Consultant & Developer",
     description:
       "I build AI systems that actually work in production. Enterprise compliance systems, agentic pipelines, and custom automation.",
   },

@@ -13,7 +13,7 @@ export default function Contact() {
           Let&apos;s talk.
         </h2>
         <p className="mt-4 text-text-secondary max-w-lg">
-          I&apos;m open to AI enablement and automation roles — and select
+          I&apos;m open to AI enablement and automation roles, and select
           consulting engagements. If you&apos;re building something that
           matters, I&apos;d like to hear about it.
         </p>

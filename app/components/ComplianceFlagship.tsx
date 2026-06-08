@@ -3,7 +3,7 @@ export default function ComplianceFlagship() {
     "n8n",
     "JavaScript",
     "Supabase + pgvector",
-    "Azure OpenAI",
+    "OpenAI API",
     "Cohere",
     "Google Drive",
   ];
@@ -24,17 +24,18 @@ export default function ComplianceFlagship() {
           AI-Powered Compliance Gap Detection System
         </h2>
         <p className="mt-3 font-mono text-sm text-text-secondary">
-          Enterprise Regulatory Intelligence — Federally Insured Credit Union
+          Enterprise Regulatory Intelligence · Federally Insured Credit Union
         </p>
 
         {/* Tagline */}
         <p className="mt-6 text-lg md:text-xl text-accent font-medium italic max-w-3xl">
-          &ldquo;I built a compliance AI that found gaps their own team had
-          missed — including a material GLBA violation.&rdquo;
+          &ldquo;I built a compliance AI that surfaced gaps their own team had
+          missed, including a material GLBA gap.&rdquo;
         </p>
         <p className="mt-3 text-text-secondary max-w-3xl">
           Enterprise RAG system for a federally insured credit union. 100%
-          accuracy confirmed by the client&apos;s compliance team.
+          accuracy across ten consecutive runs, with every gap it surfaced
+          confirmed valid by the client&apos;s compliance team.
         </p>
 
         {/* Stats callouts */}
@@ -74,7 +75,7 @@ export default function ComplianceFlagship() {
             </h3>
             <p className="text-text-secondary leading-relaxed mb-6">
               A federally insured credit union was approaching the $500M asset
-              threshold — a regulatory milestone that triggers materially higher
+              threshold, a regulatory milestone that triggers materially higher
               federal examination scrutiny. Their compliance team was manually
               cross-referencing regulatory requirements against dozens of
               internal policy documents, one at a time. A single missed gap can
@@ -85,10 +86,10 @@ export default function ComplianceFlagship() {
               What I Built
             </h3>
             <p className="text-text-secondary leading-relaxed mb-4">
-              A production-ready AI compliance system from the ground up. The
+              An AI compliance system, built from the ground up. The
               system ingests internal policy documents, indexes them against
               federal regulatory requirements, and answers compliance questions
-              with sourced, verifiable answers — not hallucinations.
+              with sourced, verifiable answers, not hallucinations.
             </p>
             <p className="text-text-secondary leading-relaxed mb-6">
               The model was explicitly constrained to report only what existed in
@@ -139,8 +140,8 @@ export default function ComplianceFlagship() {
                 <span className="text-accent mt-1 flex-shrink-0">&#10003;</span>
                 <span>
                   <strong className="text-text-primary">100% accuracy</strong>{" "}
-                  across all five test categories — confirmed by the
-                  client&apos;s compliance team
+                  across ten consecutive runs, with every gap it surfaced
+                  confirmed valid by the client&apos;s compliance team
                 </span>
               </li>
               <li className="flex items-start gap-2">
@@ -157,8 +158,8 @@ export default function ComplianceFlagship() {
                 <span>
                   <strong className="text-text-primary">
                     Identified a material GLBA gap
-                  </strong>{" "}
-                  — a required Privacy Notice document that was missing entirely
+                  </strong>
+                  , a required Privacy Notice document that was missing entirely
                 </span>
               </li>
               <li className="flex items-start gap-2">
@@ -175,17 +176,18 @@ export default function ComplianceFlagship() {
                 <span className="text-accent mt-1 flex-shrink-0">&#10003;</span>
                 <span>
                   <strong className="text-text-primary">
-                    Security architecture approved by SVP of IT
-                  </strong>{" "}
-                  — client-hosted Azure environment, zero external data
-                  dependencies
+                    Deployment architecture passed the SVP of IT&apos;s security
+                    review
+                  </strong>
+                  , designed client-hosted with zero external data dependencies
                 </span>
               </li>
             </ul>
 
             <p className="mt-6 text-sm text-text-secondary italic">
-              The system was confirmed production-ready. The engagement did not
-              advance due to budget constraints on the client&apos;s side.
+              The system met the client&apos;s accuracy bar and its deployment
+              plan passed their security review. The engagement did not advance
+              due to budget constraints on the client&apos;s side.
             </p>
           </div>
         </div>
@@ -211,8 +213,8 @@ export default function ComplianceFlagship() {
             </span>
           ))}
           <span className="font-mono text-xs px-3 py-1.5 rounded bg-surface border border-border text-text-secondary italic">
-            Deployed within client&apos;s Azure environment. Zero external data
-            dependencies.
+            Designed for deployment within the client&apos;s own environment.
+            Zero external data dependencies.
           </span>
         </div>
       </div>
